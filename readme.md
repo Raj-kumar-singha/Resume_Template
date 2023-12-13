@@ -11,5 +11,5 @@ In this project, I created my own Resume Template.
 
 ### Expected Output
 
-![output image](./output/resume1.png)
-![output image](./output/resume2.png)
+![output image](./output/resume1st.png)
+![output image](./output/resume2nd.png)
