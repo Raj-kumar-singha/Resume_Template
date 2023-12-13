@@ -1,8 +1,6 @@
 ## Resume Template
 
-In this project one have to create a resume template with his details filled in it.
-
-One can use the below given template for creating this project.
+In this project, I created my own Resume Template.
 
 > All the required assets are given in the **assets** folder.
 
@@ -10,7 +8,3 @@ One can use the below given template for creating this project.
 
 - HTML
 - CSS
-
-### Expected Output
-
-![output image](./output/resumeTemplateOutput.png)
