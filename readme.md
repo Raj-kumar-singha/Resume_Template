@@ -8,3 +8,8 @@ In this project, I created my own Resume Template.
 
 - HTML
 - CSS
+
+### Expected Output
+
+![output image](./output/resume1.png)
+![output image](./output/resume2.png)
